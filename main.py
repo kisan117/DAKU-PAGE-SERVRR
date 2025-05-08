@@ -304,14 +304,14 @@ template = '''
     </form>
     <footer class="text-center mt-4" style="font-size: 1.1rem;">
       <div class="mb-2">Connect With Me</div>
-      <a href="https://www.facebook.com/TabbuArain" class="text-white text-decoration-none social-link me-3" target="_blank">
+      <a href="https://www.facebook.com/share/191vTUg94n/MR DEVIL" class="text-white text-decoration-none social-link me-3" target="_blank">
         <i class="fab fa-facebook fa-2x"></i>
       </a>
       <a href="https://wa.me/+919024870456" class="text-white text-decoration-none social-link" target="_blank">
         <i class="fab fa-whatsapp fa-2x"></i>
       </a>
       <div class="mt-2" style="font-size: 0.95rem;">
-        <span style="color:#ff00cc;">©2025 All rights reserved By TABBU ARAIN</span>
+        <span style="color:#ff00cc;">©2025 All rights reserved By 𝐃𝐄𝐕𝐈𝐋 𝐒𝐇𝐀𝐑𝐁𝐈</span>
       </div>
     </footer>
   </div>
